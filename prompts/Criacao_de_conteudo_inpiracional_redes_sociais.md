@@ -6,7 +6,7 @@ v1.1 (15-02-2025) - Inclusão de público-alvo e sugestões de plataforma
 v2 (20-02-2025) - Adição de estrutura de formatação do post e exemplo prático
 
 ## Objetivo
-Este template foi desenvolvido para padronizar a criação de prompts para conteúdos inspiracionais em redes sociais, garantindo consistência e clareza no desenvolvimento de publicações motivacionais.
+Este template foi desenvolvido para padronizar a criação de prompts para conteúdos inspiracionais em redes sociais, garantindo consistência e clareza no desenvolvimento de publicações.
 
 ## Autora
 Day Cavalcanti
